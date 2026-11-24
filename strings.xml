@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Akiba</string>
+    <string name="my_groups">Vikundi Vyangu (Likilemba)</string>
+    <string name="create_group">Unda Kikundi Kipya</string>
+    <string name="group_name">Jina la Kikundi</string>
+    <string name="currency">Sarafu (CDF, BIF, USD)</string>
+    <string name="contribution_amount">Kiasi cha Mchango</string>
+    <string name="save">Hifadhi</string>
+    <string name="record_payment">Rekodi Malipo</string>
+    <string name="members">Wanachama</string>
+    <string name="add_member">Ongeza Mwanachama</string>
+    <string name="share_receipt">Tuma Risiti WhatsApp</string>
+    <string name="offline_mode">Hali ya Nje ya Mtandao</string>
+    <string name="synced">Imesawazishwa</string>
+    <string name="cycle">Zamu ya</string>
+</resources>
